@@ -43,7 +43,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 ## >  THIS BOT IT USE MULTI DEVICE BAILEYS
 
-
+yy
 ``` 
 apt install nodejs
 
@@ -74,7 +74,7 @@ echo scan the qr code and enjoy bot
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212610591087)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
